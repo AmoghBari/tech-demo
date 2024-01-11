@@ -70,6 +70,3 @@ jobs:
       with:
         name: docker-scout-output
         path: scout-report.sarif
-      
-      
-      
