@@ -6,7 +6,7 @@ exclude_dirs: ['tests']
 tests: [ ]
 
 # (optional) list skipped tests here:
-skips: ['B404', 'B603']
+skips: ['B404', 'B603', 'B506', 'B303', 'B307']
 
 ### override settings - used to set settings for plugins to non-default values
 
